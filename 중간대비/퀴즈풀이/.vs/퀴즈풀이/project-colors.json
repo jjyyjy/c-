@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fd8ead6-4cc3-404a-afdf-f04630cd4cbe": {
+      "ProjectGuid": "6fd8ead6-4cc3-404a-afdf-f04630cd4cbe",
+      "DisplayName": "퀴즈풀이",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "4f97597d-2bee-4fef-9aa6-167ef2397084": {
+      "ProjectGuid": "4f97597d-2bee-4fef-9aa6-167ef2397084",
+      "DisplayName": "21년1번",
+      "ColorIndex": 1
+    },
+    "ab48c4e9-f753-4591-9926-ecac6e97e4fd": {
+      "ProjectGuid": "ab48c4e9-f753-4591-9926-ecac6e97e4fd",
+      "DisplayName": "21년2번",
+      "ColorIndex": 2
+    },
+    "196f572f-20a6-4f7d-adc7-974c138a9b83": {
+      "ProjectGuid": "196f572f-20a6-4f7d-adc7-974c138a9b83",
+      "DisplayName": "21년3번",
+      "ColorIndex": 3
+    },
+    "aa03aad3-20cc-4215-9d8b-924dacc0cbb6": {
+      "ProjectGuid": "aa03aad3-20cc-4215-9d8b-924dacc0cbb6",
+      "DisplayName": "연습1",
+      "ColorIndex": 4
+    },
+    "bad61c7f-3862-48ab-be95-cdf11fa4c88f": {
+      "ProjectGuid": "bad61c7f-3862-48ab-be95-cdf11fa4c88f",
+      "DisplayName": "연습2",
+      "ColorIndex": 5
+    },
+    "10ef2076-8712-4a85-8ba5-1324be846294": {
+      "ProjectGuid": "10ef2076-8712-4a85-8ba5-1324be846294",
+      "DisplayName": "연습3",
+      "ColorIndex": 6
+    },
+    "a9e66126-579c-4042-870d-42e3ce34a891": {
+      "ProjectGuid": "a9e66126-579c-4042-870d-42e3ce34a891",
+      "DisplayName": "연습4",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
